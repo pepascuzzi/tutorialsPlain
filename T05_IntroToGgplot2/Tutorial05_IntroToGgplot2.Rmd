@@ -10,7 +10,6 @@ output: learnr::tutorial
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(magrittr)
-library(learnr)
 library(RColorBrewer)
 knitr::opts_chunk$set(echo = FALSE)
 knitr::opts_chunk$set(cache = TRUE)
